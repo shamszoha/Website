@@ -4,6 +4,10 @@ Fetch Vs Pool
 Hey there ! How are you doing. learning git hub from the begining. interesting indeed.
 Updated locally
 
-
-
 Making changes for pull with rebase.
+
+<<<<<<< HEAD
+Later changes for conflict resolving
+=======
+Making changes for conflict resolving.
+>>>>>>> 2f439ed2f2f105fa60bc762ce3b5cc6b6b83511a
