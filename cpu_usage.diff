@@ -1,0 +1,12 @@
+--- cpu_usage_original.txt	2020-05-03 20:42:00.652354600 +0600
++++ cpu_usage_fix.txt	2020-05-03 20:44:41.771522800 +0600
+@@ -1,2 +1,6 @@
+ 
+-# Make changes here.
+\ No newline at end of file
++# Make changes here.
++
++You forgot to add any text in here. I am adding text for you.
++
++You are wellcome !!!.
+\ No newline at end of file
