@@ -1,2 +1,12 @@
 
 # Make changes here.
+
+You forgot to add any text in here. I am adding text for you.
+
+You are wellcome !!!.
+
+<<<<<<< HEAD
+I am changing from locally.
+=======
+I am changing this file Remotely.
+>>>>>>> e5686f7439544bcd98fe7e074e3316f303f5fb60
